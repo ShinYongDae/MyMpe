@@ -1,0 +1,11 @@
+Debug/
+ipch/
+x64/
+MyMpe.sdf
+MyMpe.VC.db
+MyMpe/Debug/
+MyMpe/x64/
+.vs/
+MyMpe/MyMpe.aps
+
+
